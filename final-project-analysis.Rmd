@@ -1,0 +1,21 @@
+# Final Project
+
+## Environment setup
+
+```{r}
+source("./R/helpers.R")
+```
+
+## Progress saving object
+
+```{r}
+final <- list()
+```
+
+# Import data
+
+# Save progress
+
+```{r}
+saveRDS(final, file="final.Rds")
+```
